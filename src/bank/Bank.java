@@ -47,7 +47,7 @@ public class Bank {
         currYear++;
     }
 
-    public void main(String[] args) {
-
+    public static void main(String[] args) {
+        //Use this method to test
     }
 }
